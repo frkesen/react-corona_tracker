@@ -2,7 +2,6 @@
   "name": "react-corona_tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://frkesen.github.io/react-corona_tracker",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@testing-library/jest-dom": "^5.11.4",
